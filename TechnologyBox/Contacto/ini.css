@@ -1,0 +1,33 @@
+.home-section:nth-of-type(odd):not(.hero) {
+    position: relative;
+}
+
+
+element.style {
+}
+.home-section:nth-of-type(odd):not(.hero) {
+    position: relative;
+}
+*, :after, :before {
+    --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(59,130,246,.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+}
+
+*, :after, :before {
+    --tw-shadow: 0 0 #0000;
+}
+*, :after, :before {
+    border-color: #e5e7eb;
+}
+*, :after, :before {
+    border: 0 solid;
+    box-sizing: border-box;
+}
+hoja de estilo del usuario-agente
+section {
+    display: block;
+}
